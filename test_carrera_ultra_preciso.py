@@ -390,10 +390,11 @@ st.write("Responde honestamente. Cada pregunta va de 1 (Nada) a 5 (Muchísimo)."
 # show small instructions
 with st.expander("Instrucciones (leer rápido)"):
     st.write(
-        "- Toma unos 10–20 minutos para responder con calma.\n"
-        "- No hay respuestas 'correctas' — responde según tus gustos y hábitos reales.\n"
-        "- Las preguntas incluyen cosas generales y específicas para diferenciar carreras.\n"
-        "- Al finalizar puedes guardar y descargar tus resultados."
+        "- Toma unos 10–20 minutos para responder con calma no hay tiempo.\n"
+        "- No hay respuestas 'correctas' — responde según tus gustos y hábitos totalmente reales.\n"
+        "- Las respuestas preguntas van dirigidas de forma general y en cualquier situación.\n"
+        "- Las preguntas incluyen cosas generales y específicas para precisar las carreras.\n"
+        
     )
 
 # inputs: present domains as expanders
