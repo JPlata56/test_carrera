@@ -388,10 +388,10 @@ st.title("🎯 Test Vocacional — Versión Ultra Precisa")
 st.write("Responde honestamente. Cada pregunta va de 1 (Nada) a 5 (Muchísimo).")
 
 # show small instructions
-with st.expander("Instrucciones (leer rápido)"):
+with st.expander("Instrucciones para un uso adecuado de el test"):
     st.write(
-        "- Toma unos 10–20 minutos para responder con calma no hay tiempo.\n"
-        "- No hay respuestas 'correctas' — responde según tus gustos y hábitos totalmente reales.\n"
+        "- Toma unos 10–20 minutos para responder con calma no hay tiempo limite.\n"
+        "- Solamente responde según tus gustos y hábitos totalmente reales para una mayor precisión.\n"
         "- Las respuestas preguntas van dirigidas de forma general y en cualquier situación.\n"
         "- Las preguntas incluyen cosas generales y específicas para precisar las carreras.\n"
         
